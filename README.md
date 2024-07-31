@@ -1,6 +1,7 @@
 # Summer-Project-2024
 EDA of APPL Stock Price movements for a period of 2 Years (2015-2017)
 This project was completed as per mandatory academic requirements set forth by NIT Agartala and thereby is listed as open source and free for all to copy , use and/or modify as they see fit.
+
 #THINGS TO NOTE:
 [1] Main Code File: "Apple_Stock_Price_Movement_Analysis(1).ipynb" | This is the main code file which runs in python and organizes and displays the data.
 [2] Main Database File: "finance-charts-apple[1].csv" | This is the main database file containing the entire data which is to be uploaded along with the main code file into the notebook.
